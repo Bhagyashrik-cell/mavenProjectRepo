@@ -10,7 +10,7 @@ public class AppConfig {
 	{
 		Student st=new Student();
 		st.setRollno(1);
-		st.setName("bhagyashri");
+		st.setName("Akash");
 		st.setAddress("pune");
 		st.setMobile("7349865432");
 		return st;
